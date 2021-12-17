@@ -4,8 +4,8 @@ import Nav from '../components/Nav';
 
 export default function HomePage() {
   return (
-    <Layout>
+    <>
       <p>Hey I'm the home page</p>
-    </Layout>
+    </>
   );
 }
